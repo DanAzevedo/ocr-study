@@ -9,11 +9,11 @@
 </p>
 
 <h3>Estudo de OCR e Tesseract feito durante um curso.</h3>
-<h3>OCR and Tesseract study done during a course.</h3>
+<h3>Study of OpenCV and Computer Vision.</h3>
 
 - [Python 3.9](https://www.python.org/)
 - [OpenCV](https://opencv.org/)
-- [Tesseract](https://tesseract-ocr.github.io/)
+- [Others]
 
 > <h3>Contribuidores/Contribuitors</h3>
 
