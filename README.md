@@ -13,7 +13,7 @@
 
 - [Python 3.9](https://www.python.org/)
 - [OpenCV](https://opencv.org/)
-- [Others]
+- Others
 
 > <h3>Contribuidores/Contribuitors</h3>
 
